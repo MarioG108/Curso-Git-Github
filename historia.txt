@@ -1,2 +1,1 @@
-Esta es una historia de prueba solo para el curso.
-Necesitaba poner texto en el archivo.
+Mi nombre es Mario Gonzalez y soy un desarrollador autodidacta.

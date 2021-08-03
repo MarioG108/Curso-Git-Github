@@ -2,7 +2,22 @@ body {
     font-family: 'Montserrat';
     margin: 0%;
 }
-
+#footer{
+    width: 100%;
+    background-color: green;
+    position: relative;
+    bottom: 0;
+}
+#footer>div{
+    display: flex; 
+    padding: 0;
+  justify-content: center;
+align-items: center;
+}
+#footer>div>ul>li{
+    list-style: none;
+    display: inline-block;
+}
 section{
     margin: 1em auto;
     padding: 1rem;
